@@ -7,7 +7,7 @@ const Projects = () => {
     {
       title: 'Assignment App',
       subtitle: 'Click to view on Figma',
-      image: '../assets/assignment.jpg',
+      image: '/assets/assignment.jpg',
       Url: 'https://www.figma.com/design/WsSuM609IddTPydLOz1LNO/Untitled?node-id=0-1&t=pofYsyDdnaIQrICS-1',
       type: 'Figma' // Can be 'github' or 'figma'
     },
