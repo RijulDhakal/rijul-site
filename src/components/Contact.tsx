@@ -43,7 +43,7 @@ const Contact = () => {
     setSubmitStatus({ type: null, message: '' });
 
     try {
-      const response = await fetch('http://localhost:3001/api/contact', {
+      const response = await fetch('https://rijul-site-60fnm7954-rijuldhakals-projects.vercel.app/api/contact', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
