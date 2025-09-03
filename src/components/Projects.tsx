@@ -14,42 +14,42 @@ const Projects = () => {
     {
       title: 'Fitness App',
       subtitle: 'Click to view on Figma',
-      image: 'src/assets/fitness.jpg',
+      image: '/assets/fitness.jpg',
       Url: 'https://www.figma.com/design/bWQbEjGjFMJpFLktlXhVL1/fitness-app?node-id=0-1&t=17tHoxFiVQAHHcys-1',
       type: 'Figma'
     },
     {
       title: 'E-Learning App',
       subtitle: 'Click to view on Figma',
-      image: 'src/assets/Elearning.jpg',
+      image: '/assets/Elearning.jpg',
       Url: 'https://www.figma.com/design/riRvo9Mvwrm6mVkkQSUCRH/e-learing?node-id=0-1&t=nekorxoLBSpUTli0-1',
       type: 'Figma'
     },
     {
       title: 'Dhansetu Wallet App',
       subtitle: 'Click to view on Figma',
-      image: 'src/assets/Dhansetu.jpg',
+      image: '/assets/Dhansetu.jpg',
       Url: 'https://www.figma.com/design/oeZrD0gupMxczglCt9Ufxd/rijuldhakal?node-id=0-1&t=cPQT9ZDLuyYgFTze-1',
       type: 'Figma'
     },
     {
       title: 'Messaging App',
       subtitle: 'Click to view on Figma',
-      image: 'src/assets/messaging.jpg',
+      image: '/assets/messaging.jpg',
       Url: 'https://www.figma.com/design/yv1XDGNSo2T0tynfQZx6e8/message-app?node-id=0-1&t=IZH0iva0v8ujVbrP-1',
       type: 'Figma'
     },
     {
       title: 'MediCure E-commerce',
       subtitle: 'Click to view on Figma',
-      image: 'src/assets/medicure.jpg',
+      image: '/assets/medicure.jpg',
       Url: 'https://www.figma.com/design/E5GN0fesXi5HiavXxy6G6z/medicure?node-id=1-2132&t=wHmWs5glnh7lKENE-1',
       type: 'Figma'
     },
     {
       title: 'Saptarishi',
       subtitle: 'Click to view on GitHub',
-      image: 'src/assets/saptarishi.jpg',
+      image: '/assets/saptarishi.jpg',
       Url: 'https://github.com/RijulDhakal',
       type: 'github'
     }
