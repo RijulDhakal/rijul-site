@@ -1,0 +1,10 @@
+// This is a placeholder file for the profile image
+// Replace this file with your actual profile picture
+// The Hero component will automatically use this image when imported
+
+// For now, we'll use a fallback URL in the Hero component
+// To use a local image:
+// 1. Add your profile.jpg file to the src/assets/ folder
+// 2. The Hero component will automatically import and use it
+
+export default '/src/assets/profile.jpg';
