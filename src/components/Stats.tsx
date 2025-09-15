@@ -6,10 +6,10 @@ const Stats = () => {
   const isInView = useInView(ref, { once: true, threshold: 0.3 });
 
   const stats = [
-    { number: 3, label: 'Years of\nExperience', suffix: '' },
+    { number: 1.5, label: 'Years of\nExperience', suffix: '' },
     { number: 10, label: 'Projects\nCompleted', suffix: '+' },
     { number: 8, label: 'Technologies\nMastered', suffix: '' },
-    { number: 50, label: 'Code\nCommits', suffix: '+' }
+    { number: 10, label: 'Code\nCommits', suffix: '+' }
   ];
 
   const CountUpAnimation = ({ target, suffix = '', duration = 2 }: { target: number; suffix?: string; duration?: number }) => {
