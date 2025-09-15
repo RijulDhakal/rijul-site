@@ -6,7 +6,7 @@ const Stats = () => {
   const isInView = useInView(ref, { once: true, threshold: 0.3 });
 
   const stats = [
-    { number: 1.5, label: 'Years of\nExperience', suffix: '' },
+    { number: 2, label: 'Years of\nExperience', suffix: '' },
     { number: 10, label: 'Projects\nCompleted', suffix: '+' },
     { number: 8, label: 'Technologies\nMastered', suffix: '' },
     { number: 10, label: 'Code\nCommits', suffix: '+' }
