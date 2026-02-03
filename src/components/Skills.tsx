@@ -7,7 +7,7 @@ const Skills = () => {
       icon: <Code size={24} />,
       skills: [
         'React', 'Next.js', 'HTML', 'CSS', 'JavaScript',
-        'Node.js', 'PHP', 'FastAPI',
+        'ASP.NET Core (.NET 8)','Node.js', 'PHP', 'FastAPI',
         'MySQL', 'PostgreSQL', 'SQL', 'TypeScript', 'Tailwind CSS',
         'Stripe/PayPal/Khalti Integration'
       ]
